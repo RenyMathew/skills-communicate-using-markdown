@@ -1,18 +1,3 @@
-# My Document
-## My Document
-### My Document
-#### My Document
-##### My Document
+# Add an image
 
-
-
-
-
-
-
-
-
-
-
-
-"My Document" in different forms of header
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
