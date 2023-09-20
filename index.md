@@ -1,3 +1,4 @@
-# Add an image
+``` C++
+int x=10;
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+```
